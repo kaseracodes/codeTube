@@ -22,16 +22,16 @@ Introducing codeTube, the ultimate video streaming platform tailored exclusively
 # Features: 
 
 ### Landing Page
-![Landing Page](./screenshots/landingPage.PNG)
+![Landing Page](./screenshots/landingPage.png)
 
 ### Search Feed
-![Search Feed](./screenshots/search.PNG)
+![Search Feed](./screenshots/search.png)
 
 ### Video Streaming
-![Video](./screenshots/video.PNG)
+![Video](./screenshots/video.png)
 
 ### Channel Details
-![Channel](./screenshots/channel.PNG)
+![Channel](./screenshots/channel.png)
 
 
 ## Made By - Shivam Kasera
